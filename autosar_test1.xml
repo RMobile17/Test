@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="Autosar.css" type="text/css"?>
+<AUTOSAR xmlns="http://autosar.org/4.0.0">
+  <ADMIN-DATA>
+    <LANGUAGE>DE</LANGUAGE>
+    <USED-LANGUAGES>
+      <L-10 L="DE" SPACE="DEFAULT">Deutsch</L-10>
+      <L-10 L="EN" SPACE="DEFAULT">English</L-10>
+      <L-10 L="FR" SPACE="DEFAULT">French</L-10>
+    </USED-LANGUAGES>
+    <DOC-REVISIONS>
+      <DOC-REVISION><REVISION-LABEL></REVISION-LABEL>
+        <MODIFICATIONS>
+          <MODIFICATION>
+            <REASON></REASON>
+          </MODIFICATION>
+        </MODIFICATIONS>
+      </DOC-REVISION>
+    </DOC-REVISIONS>
+  </ADMIN-DATA>
+  <AR-PACKAGES>
+    <AR-PACKAGE>
+      <SHORT-NAME>A_Package_NAME</SHORT-NAME>
+      <ELEMENTS>
+        <N-PDU>
+          <SHORT-NAME>sadsad</SHORT-NAME>
+          <DESC>
+            <L-2 L="FOR-ALL"></L-2>
+          </DESC>
+          <ADMIN-DATA>
+            <DOC-REVISIONS></DOC-REVISIONS>
+          </ADMIN-DATA>
+        </N-PDU>
+        <COMPOSITION-SW-COMPONENT-TYPE>
+          <SHORT-NAME>a</SHORT-NAME>
+          <DOCUMENTATION>
+            <SW-FEATURE-DEFS>
+              <SW-FEATURE-DEF>
+                <SHORT-NAME>sadsd</SHORT-NAME>
+                <CHAPTER>
+                  <SHORT-NAME>dsgjd</SHORT-NAME>
+                  <P>
+                    <L-1 L="DE">sa dlksahdlk sahfklf shaf</L-1>
+                    <L-1 L="EN"><?xm-replace_text {L-1}?></L-1>
+                    <L-1 L="FR">dfjsdf jdsfkljsd kldsjfsdlf</L-1>
+                  </P>
+                  <P>
+                    <L-1 L="DE">sd fksfk sfksaflösak f saf</L-1>
+                    <L-1 L="EN">safsaf</L-1>
+                    <L-1 L="FR">f safsaf</L-1>
+                  </P>
+                  <P>
+                    <L-1 L="DE">fsaf</L-1>
+                    <L-1 L="EN">saf saf <E TYPE="BOLD">klkjihoiohihi</E></L-1>
+                    <L-1 L="FR">saf saf</L-1>
+                  </P>
+                  <LIST TYPE="NUMBER">
+                    <ITEM>
+                      <P>
+                        <L-1 L="DE">ewrwrwqr</L-1>
+                        <L-1 L="EN">wqrqwrwr</L-1>
+                        <L-1 L="FR">wrwwqrr</L-1>
+                      </P>
+                      <DEF-LIST>
+                        <DEF-ITEM>
+                          <SHORT-NAME>sdfsdfds</SHORT-NAME>
+                        </DEF-ITEM>
+                        <DEF-ITEM>
+                          <SHORT-NAME>safsafsaf</SHORT-NAME>
+                          <LONG-NAME>
+                            <L-4 L="DE">dfdsf</L-4>
+                            <L-4 L="EN">dsfdsf</L-4>
+                            <L-4 L="FR">sdfddsf</L-4>
+                          </LONG-NAME>
+                          <DEF>
+                            <P>
+                              <L-1 L="DE">sdfddsf</L-1>
+                              <L-1 L="EN">sdfdsdf</L-1>
+                              <L-1 L="FR">sdfdsf</L-1>
+                            </P>
+                          </DEF>
+                        </DEF-ITEM>
+                        <DEF-ITEM>
+                          <SHORT-NAME>safasaf</SHORT-NAME>
+                          <LONG-NAME>
+                            <L-4 L="DE">dfdsf</L-4>
+                            <L-4 L="EN">dsfsdf</L-4>
+                            <L-4 L="FR">sdfsdf</L-4>
+                          </LONG-NAME>
+                          <DEF>
+                            <P>
+                              <L-1 L="DE">sdfsdf</L-1>
+                              <L-1 L="EN">sdf</L-1>
+                              <L-1 L="FR">dsfsdf</L-1>
+                            </P>
+                            <NOTE>
+                              <P>
+                                <L-1 L="DE">sadsadsad</L-1>
+                                <L-1 L="EN">sadsad</L-1>
+                                <L-1 L="FR">sadasdasds</L-1>
+                              </P>
+                            </NOTE>
+                          </DEF>
+                        </DEF-ITEM>
+                        <VARIATION-POINT></VARIATION-POINT>
+                      </DEF-LIST>
+                    </ITEM>
+                    <ITEM>
+                      <P>
+                        <L-1 L="DE">swdsadsdrwrdasdasd</L-1>
+                        <L-1 L="EN">wqrw</L-1>
+                        <L-1 L="FR">rwqrwqrr</L-1>
+                      </P>
+                    </ITEM>
+                    <ITEM>
+                      <P>
+                        <L-1 L="DE">asdssad</L-1>
+                        <L-1 L="EN">asdssad</L-1>
+                        <L-1 L="FR">sdsad</L-1>
+                      </P>
+                    </ITEM>
+                    <ITEM>
+                      <P>
+                        <L-1 L="DE">sradsadewrewr wr</L-1>
+                        <L-1 L="EN">rewewr weer</L-1>
+                        <L-1 L="FR">rew werwerf dsfdsf dsf</L-1>
+                      </P>
+                      <P>
+                        <L-1 L="DE">fff</L-1>
+                        <L-1 L="EN">fsfsdf</L-1>
+                        <L-1 L="FR">sdfdsffdsdsfsdfdsf</L-1>
+                      </P>
+                    </ITEM>
+                    <ITEM>
+                      <P>
+                        <L-1 L="DE">sdfsfdsffd</L-1>
+                        <L-1 L="EN">sdfdsf</L-1>
+                        <L-1 L="FR">fsdfsdfd</L-1>
+                      </P>
+                    </ITEM>
+                  </LIST>
+                  <P>
+                    <L-1 L="DE">frdsf ds</L-1>
+                    <L-1 L="EN">dsf dsf</L-1>
+                    <L-1 L="FR">dsf sdff sdf</L-1>
+                  </P>
+                  <P>
+                    <L-1 L="DE">wddsfdsfdsfrwwrwrfwwsaöf saäkf ssfa</L-1>
+                    <L-1 L="EN">dsf</L-1>
+                    <L-1 L="FR">dfs</L-1>
+                  </P>
+                  <P>
+                    <L-1 L="DE">dsfdsff</L-1>
+                    <L-1 L="EN">dsfds</L-1>
+                    <L-1 L="FR">fdsfdsfdsf</L-1>
+                  </P>
+                  <P>
+                    <L-1 L="DE">asösf ksdsfa ö123fasf567äksaf</L-1>
+                    <L-1 L="EN">ffdsfsfdsf</L-1>
+                    <L-1 L="FR">dsfdsfd</L-1>
+                  </P>
+                  <P>
+                    <L-1 L="DE">sdfdsf123456789</L-1>
+                    <L-1 L="EN">f</L-1>
+                    <L-1 L="FR">dsfds</L-1>
+                  </P>
+                  <P>
+                    <L-1 L="DE"></L-1>
+                    <L-1 L="EN">dfdsfdf</L-1>
+                    <L-1 L="FR">fdsfdsfds</L-1>
+                  </P>
+                </CHAPTER>
+              </SW-FEATURE-DEF>
+            </SW-FEATURE-DEFS>
+            <SW-FEATURE-DESCS>
+              <SW-FEATURE-DESC>
+                <SHORT-NAME>safsf</SHORT-NAME>
+                <CHAPTER>
+                  <SHORT-NAME>AAA</SHORT-NAME>
+                  <P>
+                    <L-1 L="DE">sf sfölsdf dsölf lsdöf sdölfj sdölfjj lödsf sdlöf dsf</L-1>
+                    <L-1 L="EN">sddsfdsfsdf</L-1>
+                    <L-1 L="FR">sdfdsfdsf</L-1>
+                  </P>
+                  <P>
+                    <L-1 L="DE">sdf dssdsdf sdfdsf</L-1>
+                    <L-1 L="EN">dsdsfds</L-1>
+                    <L-1 L="FR">fdsfdsf</L-1>
+                  </P>
+                  <P>
+                    <L-1 L="DE">fdsds dsf sdf</L-1>
+                    <L-1 L="EN">dfdsf</L-1>
+                    <L-1 L="FR">dsfdsfds</L-1>
+                  </P>
+                  <P>
+                    <L-1 L="DE">f dsdsf sdfdsf</L-1>
+                    <L-1 L="EN">fdsfds</L-1>
+                    <L-1 L="FR">dsfdsf</L-1>
+                  </P>
+                  <P>
+                    <L-1 L="DE">f dfdsfdsfsf dsf</L-1>
+                    <L-1 L="EN">dsfdsf</L-1>
+                    <L-1 L="FR">dsfdsf</L-1>
+                  </P>
+                  <P>
+                    <L-1 L="DE">dsdsfddsfdsfffds dsf</L-1>
+                    <L-1 L="EN">dsdsfdsffdsf</L-1>
+                    <L-1 L="FR">fdsfdsf</L-1>
+                  </P>
+                  <P>
+                    <L-1 L="DE">sdf dsf kdsfksd öfkds öfkösdfds fdsfdsf sdf</L-1>
+                    <L-1 L="EN">dsfdsfdsf</L-1>
+                    <L-1 L="FR">dsfdsfsdf</L-1>
+                  </P>
+                  <FIGURE>
+                    <FIGURE-CAPTION>
+                      <SHORT-NAME>sdsad</SHORT-NAME>
+                    </FIGURE-CAPTION>
+                  </FIGURE>
+                </CHAPTER>
+              </SW-FEATURE-DESC>
+            </SW-FEATURE-DESCS>
+            <SW-TEST-DESCS>
+              <SW-TEST-DESC>
+                <SHORT-NAME>adas</SHORT-NAME>
+                <LONG-NAME>
+                  <L-4 L="DE"><?xm-replace_text {L-4}?></L-4>
+                  <L-4 L="EN"><?xm-replace_text {L-4}?></L-4>
+                  <L-4 L="FR"><?xm-replace_text {L-4}?></L-4>
+                </LONG-NAME>
+                <CHAPTER>
+                  <SHORT-NAME>BBB</SHORT-NAME>
+                  <FIGURE>
+                    <FIGURE-CAPTION>
+                      <SHORT-NAME>ewefefsfsfsf</SHORT-NAME>
+                    </FIGURE-CAPTION>
+                  </FIGURE>
+                  <P>
+                    <L-1 L="DE"></L-1>
+                    <L-1 L="EN"><?xm-replace_text {L-1}?></L-1>
+                    <L-1 L="FR"><?xm-replace_text {L-1}?></L-1>
+                  </P>
+                </CHAPTER>
+              </SW-TEST-DESC>
+            </SW-TEST-DESCS>
+            <SW-CALIBRATION-NOTESS>
+              <SW-CALIBRATION-NOTES>
+                <SHORT-NAME>sdfjfjds</SHORT-NAME>
+                <LONG-NAME>
+                  <L-4 L="DE"><?xm-replace_text {L-4}?></L-4>
+                  <L-4 L="EN"><?xm-replace_text {L-4}?></L-4>
+                  <L-4 L="FR"><?xm-replace_text {L-4}?></L-4>
+                </LONG-NAME>
+                <CHAPTER>
+                  <SHORT-NAME>CCC</SHORT-NAME>
+                  <LONG-NAME>
+                    <L-4 L="DE"><?xm-replace_text {L-4}?></L-4>
+                    <L-4 L="EN"><?xm-replace_text {L-4}?></L-4>
+                    <L-4 L="FR"><?xm-replace_text {L-4}?></L-4>
+                  </LONG-NAME>
+                  <P>
+                    <L-1 L="DE"></L-1>
+                    <L-1 L="EN"><?xm-replace_text {L-1}?></L-1>
+                    <L-1 L="FR"><?xm-replace_text {L-1}?></L-1>
+                  </P>
+                </CHAPTER>
+              </SW-CALIBRATION-NOTES>
+            </SW-CALIBRATION-NOTESS>
+            <SW-MAINTENANCE-NOTESS>
+              <SW-MAINTENANCE-NOTES>
+                <SHORT-NAME>gggui</SHORT-NAME>
+                <CHAPTER>
+                  <SHORT-NAME>DDD</SHORT-NAME>
+                  <P>
+                    <L-1 L="DE"></L-1>
+                    <L-1 L="EN"><?xm-replace_text {L-1}?></L-1>
+                    <L-1 L="FR"><?xm-replace_text {L-1}?></L-1>
+                  </P>
+                </CHAPTER>
+              </SW-MAINTENANCE-NOTES>
+            </SW-MAINTENANCE-NOTESS>
+            <SW-DIAGNOSTICS-NOTESS>
+              <SW-DIAGNOSTICS-NOTES>
+                <SHORT-NAME>erfwerwr</SHORT-NAME>
+                <CHAPTER>
+                  <SHORT-NAME>EEE</SHORT-NAME>
+                  <P>
+                    <L-1 L="DE"></L-1>
+                    <L-1 L="EN"><?xm-replace_text {L-1}?></L-1>
+                    <L-1 L="FR"><?xm-replace_text {L-1}?></L-1>
+                  </P>
+                </CHAPTER>
+              </SW-DIAGNOSTICS-NOTES>
+            </SW-DIAGNOSTICS-NOTESS>
+            <SW-CARB-DOCS>
+              <SW-CARB-DOC>
+                <SHORT-NAME>wesfdsd</SHORT-NAME>
+                <CHAPTER>
+                  <SHORT-NAME>FFF</SHORT-NAME>
+                  <P>
+                    <L-1 L="DE"></L-1>
+                    <L-1 L="EN"><?xm-replace_text {L-1}?></L-1>
+                    <L-1 L="FR"><?xm-replace_text {L-1}?></L-1>
+                  </P>
+                </CHAPTER>
+              </SW-CARB-DOC>
+            </SW-CARB-DOCS>
+            <CHAPTER>
+              <SHORT-NAME>GGG</SHORT-NAME>
+              <PRMS>
+                <PRM><SHORT-NAME>sadsadsad</SHORT-NAME>
+                  <PRM-CHAR>
+                    <ABS>34</ABS>
+                    <REMARK>
+                      <P>
+                        <L-1 L="DE">d</L-1>
+                        <L-1 L="EN">d</L-1>
+                        <L-1 L="FR">d</L-1>
+                      </P>
+                      <NOTE>
+                        <P>
+                          <L-1 L="FOR-ALL"></L-1>
+                        </P>
+                      </NOTE>
+                    </REMARK>
+                  </PRM-CHAR>
+                </PRM>
+              </PRMS>
+              <P>
+                <L-1 L="DE">d</L-1>
+                <L-1 L="EN"><?xm-replace_text {L-1}?></L-1>
+                <L-1 L="FR"><?xm-replace_text {L-1}?></L-1>
+              </P>
+            </CHAPTER>
+          </DOCUMENTATION>
+          <COMPONENTS>
+            <SW-COMPONENT-PROTOTYPE>
+              <SHORT-NAME>dsasaddsafd</SHORT-NAME>
+              <CATEGORY>adadad</CATEGORY>
+            </SW-COMPONENT-PROTOTYPE>
+          </COMPONENTS>
+        </COMPOSITION-SW-COMPONENT-TYPE>
+        <DOCUMENTATION>
+          <SHORT-NAME>HHH</SHORT-NAME>
+          <DOCUMENTATION-CONTENT>
+            <SHORT-NAME>sfsf</SHORT-NAME>
+            <TOPIC-1>
+              <SHORT-NAME>sffdsf</SHORT-NAME>
+              <P>
+                <L-1 L="DE">sfsaf fsf</L-1>
+                <L-1 L="EN"><?xm-replace_text {L-1}?></L-1>
+                <L-1 L="FR"><?xm-replace_text {L-1}?></L-1>
+              </P>
+            </TOPIC-1>
+          </DOCUMENTATION-CONTENT>
+        </DOCUMENTATION>
+      </ELEMENTS>
+    </AR-PACKAGE>
+  </AR-PACKAGES>
+</AUTOSAR>
